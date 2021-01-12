@@ -13,6 +13,7 @@
 
 <br />
 <br />
+
 ---
 
 ### Connect with me:
@@ -24,6 +25,7 @@
 
 <br />
 <br />
+
 ---
 
 ### Languages and Tools:
