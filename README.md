@@ -48,13 +48,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="ashanglenn's GitHub Stats" src="https://github-readme-stats-swart-five.vercel.app
-/api?username=ashanglenn94&show_icons=true&hide_border=true" />
+  #GitHub Stats
 
-</details>
+ <img align="left" alt="ashanglenn's GitHub Stats" src="https://github-readme-stats-swart-five.vercel.app/api?username=AshanGlenn94&show_icons=true&hide_border=true" />
+
+
 
 [website]: https://ashan.algorizin.com
 [twitter]: https://twitter.com/AshanSenevirat6
