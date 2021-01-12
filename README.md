@@ -16,17 +16,7 @@
 
 ---
 
-### Connect with me:
 
-[<img align="left" alt="ashanglenn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ashanglenn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashanglenn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ashanglenn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
-
----
 
 ### Languages and Tools:
 
@@ -48,10 +38,21 @@
 
 ---
 
-
-  #GitHub Stats
+### GitHub Stats:
 
  <img align="left" alt="ashanglenn's GitHub Stats" src="https://github-readme-stats-swart-five.vercel.app/api?username=AshanGlenn94&show_icons=true&hide_border=true" />
+
+---
+
+### Connect with me:
+
+[<img align="left" alt="ashanglenn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashanglenn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ashanglenn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ashanglenn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
 
 
 
