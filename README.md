@@ -8,7 +8,7 @@
 - 📫 How to reach me: LinkedIn 
 - ⚡ Fun fact: Apart from my coding life I like to cook, work on DIY projects and travel
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AshanSenevirat6?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)
+![Twitter Follow][https://img.shields.io/twitter/follow/AshanSenevirat6?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge][twitter]
 
 
 ### Languages and Tools:
