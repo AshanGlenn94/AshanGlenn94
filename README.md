@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Apart from my coding life I like to cook, work on DIY projects and travel
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AshanSenevirat6?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/ashanglenn)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ashanglenn)
 
 ### Spotify Playing 🎧
 
