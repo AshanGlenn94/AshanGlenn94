@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on more personal/public projects
 - 🤔 I’m looking for help with finding a full time opportunity in FullStack Developing
 - 💬 Ask me about anything you like
-- 📫 How to reach me: LinkedIn 
+- 📫 How to reach me: LinkedIn : /ashanglenn , E-mail: ashanglenns@gmail.com
 - ⚡ Fun fact: Apart from my coding life I like to cook, work on DIY projects and travel
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AshanSenevirat6?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)
