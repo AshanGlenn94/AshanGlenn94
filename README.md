@@ -1,6 +1,6 @@
 ### Hello World, I'm Ashan Glenn 👋
 
-- 🔭 I’m currently working on Nudge App(React Native), SushiFinder App(React + ExpressJS + NodeJS + MongoDB)
+- 🔭 I’m currently working on Nudge App(React Native), Fullstack web app projects using MERN
 - 🌱 I’m currently learning NodeJS, ExpressJS
 - 👯 I’m looking to collaborate on more personal/public projects
 - 🤔 I’m looking for help with finding a full time opportunity in FullStack Developing
