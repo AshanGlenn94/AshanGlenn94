@@ -1,6 +1,6 @@
 #Hi there 👋, Ashan Glenn
 #### Full Stack / Mobile App Developer
-![Full Stack / Mobile App Developer](https://media-exp1.licdn.com/dms/image/C4E16AQH7RN5ZTN_4zA/profile-displaybackgroundimage-shrink_200_800/0/1612218945279?e=1617840000&v=beta&t=0IaBnL5wMR7gRtgLRocMMGxgZUmQv7buwcO3_D2n62I)
+![Full Stack / Mobile App Developer](https://github.com/AshanGlenn94/AshanGlenn94/blob/main/Banner.gif)
 
 I love the fact that in today’s world only few lines of a code can improve people’s lives and that inspires me in my work as a Software Developer.
 
