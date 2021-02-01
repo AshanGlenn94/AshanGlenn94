@@ -17,7 +17,6 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 - 📫 How to reach me: LinkedIn / Email - ashanglenns@gmail.com 
 - ⚡ Fun fact: I'd love to make small DIY projects, cook and travel whenever I get a free time 
 
----
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshanGlenn94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashanglenn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/megatrone94/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AshanSenevirat6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ashan-glenn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashan.algorizin.com)  
 
@@ -31,6 +30,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)  
 
+---
 
 ### Languages and Tools:
 
