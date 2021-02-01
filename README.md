@@ -1,15 +1,14 @@
-### Hello World, I'm Ashan Glenn 👋
+#Hi there 👋, Ashan Glenn
+#### Full Stack / Mobile App Developer
+![Full Stack / Mobile App Developer](https://media-exp1.licdn.com/dms/image/C4E16AQH7RN5ZTN_4zA/profile-displaybackgroundimage-shrink_200_800/0/1612218945279?e=1617840000&v=beta&t=0IaBnL5wMR7gRtgLRocMMGxgZUmQv7buwcO3_D2n62I)
 
-- 🔭 I’m currently working on Nudge App(React Native), Fullstack web app projects using MERN
-- 🌱 I’m currently learning NodeJS, ExpressJS
-- 👯 I’m looking to collaborate on more personal/public projects
-- 🤔 I’m looking for help with finding a full time opportunity in FullStack Developing
-- 💬 Ask me about anything you like
-- 📫 How to reach me: LinkedIn : [/ashanglenn][linkedin] , E-mail: ashanglenns@gmail.com
-- ⚡ Fun fact: Apart from my coding life I like to cook, work on DIY projects and travel
+I love the fact that in today’s world only few lines of a code can improve people’s lives and that inspires me in my work as a Software Developer.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AshanSenevirat6?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)
+I’m a fast-learning fullstack & mobile(react-native) developer with a background in computer networking and technology management. Recently graduated from Southeast Missouri State University. One of my core values is working collaboratively with a consistent team to achieve tangible results.
 
+I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, cooking and traveling.
+
+Feel free to learn more about my portfolio via https://ashan.algorizin.com 
 
 ### Languages and Tools:
 
