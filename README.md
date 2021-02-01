@@ -10,6 +10,27 @@ I spend my free time as a helping-hand for the people who are in need, following
 
 Feel free to learn more about my portfolio via https://ashan.algorizin.com 
 
+- 🔭 I’m currently working on ReactJS / React-Native personal projects 
+- 🌱 I’m currently learning React-Native, MongoDB, ExpressJS, NodeJS 
+- 👯 I’m looking to collaborate on more projects on fullstack 
+- 🤔 I’m looking for help with ideas and thoughts which I can improve on as a developer 
+- 📫 How to reach me: LinkedIn / Email - ashanglenns@gmail.com 
+- ⚡ Fun fact: I'd love to make small DIY projects, cook and travel whenever I get a free time 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshanGlenn94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashanglenn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/megatrone94/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AshanSenevirat6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ashan-glenn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashan.algorizin.com)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94)](https://github.com/ryo-ma/github-profile-trophy)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)  
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
