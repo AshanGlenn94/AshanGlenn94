@@ -56,12 +56,6 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-### GitHub Stats:
-
- <img align="left" alt="ashanglenn's GitHub Stats" src="https://github-readme-stats-swart-five.vercel.app/api?username=AshanGlenn94&show_icons=true&hide_border=true" />
- 
-<br />
-<br />
 
 
 ### Connect with me:
