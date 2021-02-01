@@ -57,7 +57,12 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-
+### Recent projects
+<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/CovidTracker.gif" />
+<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/BreakingBad.gif" />
+<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/MoviesApp.gif" />
+<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/RecipeFinder.gif" />
+<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/SushiFinder.gif" />
 
 ### Connect with me:
 
