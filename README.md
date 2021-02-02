@@ -1,5 +1,6 @@
-[![Header](https://i.ibb.co/kJvLf0n/Banner.gif)]((https://github.com/AshanGlenn94))
-![Full Stack / Mobile App Developer]
+[![Header](https://i.ibb.co/kJvLf0n/Banner.gif)](https://github.com/AshanGlenn94)
+
+Full Stack / Mobile App Developer
 
 #Hi there 👋, I'm Ashan Glenn
 #### Full Stack / Mobile App Developer
