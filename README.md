@@ -24,12 +24,11 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94)](https://github.com/anuraghazra/github-readme-stats | width=100)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94)](https://github.com/AshanGlenn94/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)
 
----
 
 ### Languages and Tools:
-
+---
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -51,13 +50,14 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 <br />
 <br />
 
----
+
 
 ### Recent projects
+---
 <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/CovidTracker.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/BreakingBad.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/MoviesApp.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/RecipeFinder.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/SushiFinder.gif" width="150px"/>
 
-### Connect with me:
-
+### Connect with me
+---
 [<img align="left" alt="ashanglenn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ashanglenn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashanglenn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
