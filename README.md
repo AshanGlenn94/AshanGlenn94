@@ -24,7 +24,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)
 
 ---
 
@@ -54,7 +54,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 ---
 
 ### Recent projects
-<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/CovidTracker.gif" width="150px"/> <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/BreakingBad.gif" width="150px"/> <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/MoviesApp.gif" width="150px"/> <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/RecipeFinder.gif" width="150px"/> <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/SushiFinder.gif" width="150px"/>
+<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/CovidTracker.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/BreakingBad.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/MoviesApp.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/RecipeFinder.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/SushiFinder.gif" width="150px"/>
 
 ### Connect with me:
 
