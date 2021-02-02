@@ -20,7 +20,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=monokai&column=7&margin-w=15&margin-h=15&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=monokai&column=7&margin-w=15&margin-h=15&no-bg=true&count_private=true)
 
 ---
 <p align="center" >
@@ -28,10 +28,10 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 <img  height="200" src="https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true&count_private=true" />
 </p>
 
----
+
 
 ### Languages and Tools
-
+---
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
