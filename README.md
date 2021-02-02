@@ -1,7 +1,5 @@
 [![Header](https://github.com/AshanGlenn94/AshanGlenn94/blob/main/Banner.gif)](https://github.com/AshanGlenn94)
 
-Full Stack / Mobile App Developer
-
 #Hi there 👋, I'm Ashan Glenn
 #### Full Stack / Mobile App Developer
 
@@ -26,7 +24,8 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94)](https://github.com/AshanGlenn94/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true)
+<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94" />  
+<img  height="200" src="https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true&count_private=true" />
 
 
 ### Languages and Tools:
