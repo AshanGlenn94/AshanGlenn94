@@ -20,7 +20,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=monokai&column=3&margin-w=15&margin-h=15&count_private=true" />
+(https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=monokai&column=3&margin-w=15&margin-h=15&count_private=true)
 
 ---
 <p align="center" >
