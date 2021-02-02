@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/kJvLf0n/Banner.gif)](https://github.com/AshanGlenn94)
+[![Header](https://github.com/AshanGlenn94/AshanGlenn94/blob/main/Banner.gif)](https://github.com/AshanGlenn94)
 
 Full Stack / Mobile App Developer
 
