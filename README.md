@@ -20,7 +20,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=AshanGlenn94&row=2&margin-w=5&margin-h=5&count_private=true" />
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true" />
 
 ---
 <p align="center" >
