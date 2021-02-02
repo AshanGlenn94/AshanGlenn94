@@ -20,7 +20,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=AshanGlenn94)](https://github.com/ryo-ma/github-profile-trophy" />
 
 ---
 <p align="center" >
