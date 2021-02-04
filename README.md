@@ -23,7 +23,10 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 ![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=darkhub&column=7&margin-w=15&margin-h=15&count_private=true)
 
 ---
-
+<p align="center" >
+<img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshanGlenn94" />  
+<img  height="200" src="https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true&count_private=true" />
+</p>
 
 
 
