@@ -28,8 +28,6 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 <img  height="200" src="https://github-readme-stats.vercel.app/api?username=AshanGlenn94&show_icons=true&count_private=true" />
 </p>
 
-
-
 ### Languages and Tools
 ---
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -53,8 +51,6 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 <br />
 <br />
 
-
-
 ### Recent projects
 ---
 <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/CovidTracker.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/BreakingBad.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/MoviesApp.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/RecipeFinder.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/SushiFinder.gif" width="150px"/>
@@ -65,9 +61,6 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 [<img align="left" alt="ashanglenn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashanglenn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ashanglenn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
 
 
 [website]: https://ashan.algorizin.com
