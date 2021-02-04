@@ -18,7 +18,7 @@ Feel free to learn more about my portfolio via https://ashan.algorizin.com
 - 📫 How to reach me: LinkedIn / Email - ashanglenns@gmail.com 
 - ⚡ Fun fact: I'd love to make small DIY projects, cook and travel whenever I get a free time 
 
----
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=darkhub&column=7&margin-w=15&margin-h=15&count_private=true)
 
