@@ -11,8 +11,8 @@ I spend my free time as a helping-hand for the people who are in need, following
 
 Feel free to learn more about my portfolio via https://ashan.algorizin.com 
 
-- 🔭 I’m currently working on ReactJS / React-Native personal projects 
-- 🌱 I’m currently learning React-Native, MongoDB, ExpressJS, NodeJS 
+- 🔭 I’m currently working on ReactJS + TypeScript / React-Native personal projects 
+- 🌱 I’m currently learning React-Native, MongoDB, ExpressJS, NodeJS, TypeScript 
 - 👯 I’m looking to collaborate on more projects on fullstack 
 - 🤔 I’m looking for help with ideas and thoughts which I can improve on as a developer 
 - 📫 How to reach me: LinkedIn / Email - ashanglenns@gmail.com 
