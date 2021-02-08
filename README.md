@@ -9,7 +9,7 @@ I’m a fast-learning fullstack & mobile(react-native) developer with a backgrou
 
 I spend my free time as a helping-hand for the people who are in need, following and creating DIY projects, cooking and traveling.
 
-Feel free to learn more about my portfolio via https://ashan.algorizin.com 
+Feel free to learn more about my portfolio via https://www.linkedin.com/in/ashanglenn/ 
 
 - 🔭 I’m currently working on ReactJS + TypeScript / React-Native personal projects 
 - 🌱 I’m currently learning React-Native, MongoDB, ExpressJS, NodeJS, TypeScript 
