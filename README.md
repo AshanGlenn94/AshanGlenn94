@@ -53,7 +53,7 @@ Feel free to learn more about my portfolio via https://www.linkedin.com/in/ashan
 
 ### Recent projects
 ---
-<img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/CovidTracker.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/BreakingBad.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/MoviesApp.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/RecipeFinder.gif" width="150px"/>   <img src="https://github.com/AshanGlenn94/AshanGlenn94/blob/main/SushiFinder.gif" width="150px"/>
+
 
 ### Connect with me
 ---
