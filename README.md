@@ -3,7 +3,7 @@
 #Hi there 👋, I'm Ashan Glenn
 #### Full Stack / Mobile App Developer
 
-I love the fact that in today’s world only few lines of a code can improve people’s lives and that inspires me in my work as a Software Developer.
+
 
 I’m a fast-learning fullstack & mobile(react-native) developer with a background in computer networking and technology management. Recently graduated from Southeast Missouri State University. One of my core values is working collaboratively with a consistent team to achieve tangible results.
 
