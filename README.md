@@ -1,6 +1,7 @@
 [![Header](https://github.com/AshanGlenn94/AshanGlenn94/blob/main/Banner.gif)](https://github.com/AshanGlenn94)
 
-
+#Hi there 👋, I'm Ashan Glenn
+#### Full Stack / Mobile App Developer
 
 
 
