@@ -20,7 +20,7 @@ Feel free to learn more about my portfolio via https://www.linkedin.com/in/ashan
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AshanGlenn94&theme=darkhub&column=7&margin-w=15&margin-h=15&count_private=true)
+
 
 ---
 <p align="center" >
